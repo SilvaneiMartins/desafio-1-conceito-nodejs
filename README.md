@@ -19,7 +19,7 @@ Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
-### Tecnologias do Frontend :computer:
+### Tecnologias do Backend :computer:
 No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida e facilidade do uso e da configuração do mesmo, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos styled-components e para conectar o frontend com o backend utilizamos a biblioteca axios.
 
 -  [Node JS](https://nodejs.org/en/)

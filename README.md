@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar uma aplicação em node.js, era criar uma aplicacão para tarefas, na aplicação foi permitida a criação de uma tarefa, listar  as tarefas, alterar titulo da tarefa, marcar todos as tarefas como feitas e poder excluir uma tarefa.
+Dando um upgrade nos meus estudos na stack node js, o desafio proposto foi criar uma aplicação em node.js, era criar uma aplicação para tarefas, na aplicação foi permitida a criação de uma tarefa, listar as tarefas, alterar titulo da tarefa, marcar todos as tarefas como feitas e poder excluir uma tarefa.
 </h4>
 
 <p align="center">
